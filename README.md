@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HYUNJUN-KANG&count_private=true)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HYUNJUN-KANG&show_icons=true)
